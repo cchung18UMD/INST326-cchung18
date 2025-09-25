@@ -8,3 +8,6 @@ I did not use AI this week. I did, however, use ChatGPT last week to ask about t
 
 Week 2
 I asked ChatGPT to find a show I had forgotten the name of by giving it details of the show that I remember. Sadly it could not find the show.
+
+Week 3
+This week I was trying to find a Python method that checked for if each character in a string was a letter. When I looked it up on Google, the first thing I was greeted with was their AI overview, which I have always tried to avoid. I got a brief look at their result, though, and it gave me insight on what I was supposed to look for (the method was isalpha()).
