@@ -11,3 +11,6 @@ I asked ChatGPT to find a show I had forgotten the name of by giving it details 
 
 Week 3
 This week I was trying to find a Python method that checked for if each character in a string was a letter. When I looked it up on Google, the first thing I was greeted with was their AI overview, which I have always tried to avoid. I got a brief look at their result, though, and it gave me insight on what I was supposed to look for (the method was isalpha()).
+
+Week 4
+I asked ChatGPT to help shorten the word count in a paper I had to do for another class. I had already finished the paper, but I had gone over the word count. I also asked it to explain the changes it made, which it did. I found that helpful.
