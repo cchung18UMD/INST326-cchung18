@@ -14,3 +14,6 @@ This week I was trying to find a Python method that checked for if each characte
 
 Week 4
 I asked ChatGPT to help shorten the word count in a paper I had to do for another class. I had already finished the paper, but I had gone over the word count. I also asked it to explain the changes it made, which it did. I found that helpful.
+
+Week 5
+I asked ChatGPT to count how many times two words appeared in a list because I was too lazy to count myself.
