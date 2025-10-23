@@ -17,3 +17,6 @@ I asked ChatGPT to help shorten the word count in a paper I had to do for anothe
 
 Week 5
 I asked ChatGPT to count how many times two words appeared in a list because I was too lazy to count myself.
+
+Week 6
+I asked ChatGPT to remove all the line breaks in three lists and replace them with a $ because it became really tedious after doing two myself.
