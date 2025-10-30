@@ -20,3 +20,6 @@ I asked ChatGPT to count how many times two words appeared in a list because I w
 
 Week 6
 I asked ChatGPT to remove all the line breaks in three lists and replace them with a $ because it became really tedious after doing two myself.
+
+Week 7
+I used ChatGPT and Microsoft Copilot for option 2 of the Week 7 discussion assignment.
