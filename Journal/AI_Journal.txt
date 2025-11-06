@@ -23,3 +23,6 @@ I asked ChatGPT to remove all the line breaks in three lists and replace them wi
 
 Week 7
 I used ChatGPT and Microsoft Copilot for option 2 of the Week 7 discussion assignment.
+
+Week 8
+I did not use AI this week.
