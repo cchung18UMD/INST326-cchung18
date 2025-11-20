@@ -29,3 +29,6 @@ I did not use AI this week.
 
 Week 9
 I did not use AI this week again.
+
+Week 10
+I did not use AI this week again. I did however see an offer for Google Colab Pro and Gemini Pro that's free for students. While Gemini Pro is free for a year, Colab Pro is free as long as you have a school account I believe.
