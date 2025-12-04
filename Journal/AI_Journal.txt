@@ -32,3 +32,6 @@ I did not use AI this week again.
 
 Week 10
 I did not use AI this week again. I did however see an offer for Google Colab Pro and Gemini Pro that's free for students. While Gemini Pro is free for a year, Colab Pro is free as long as you have a school account I believe.
+
+Week 12
+Yesterday (12/3/2025), Spotify and YouTube released their Spotify Wrapped and YouTube Recap for the year (YouTube Recap is new this year). Both of these features use an AI to analyze and compile your listening/viewing data from Januuary to November on their respective platforms, then shares them to you in a fun and interactive way. For example, Spotify Wrapped tells you things like what song, artist, and genre you listened to the most from January to November.
