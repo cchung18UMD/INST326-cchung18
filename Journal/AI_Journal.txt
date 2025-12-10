@@ -35,3 +35,6 @@ I did not use AI this week again. I did however see an offer for Google Colab Pr
 
 Week 12
 Yesterday (12/3/2025), Spotify and YouTube released their Spotify Wrapped and YouTube Recap for the year (YouTube Recap is new this year). Both of these features use an AI to analyze and compile your listening/viewing data from Januuary to November on their respective platforms, then shares them to you in a fun and interactive way. For example, Spotify Wrapped tells you things like what song, artist, and genre you listened to the most from January to November.
+
+Week 13
+I saw a screenshot sent from a friend of Google's AI overview about the name of a horse and how it doesn't necessarily have a last name.
